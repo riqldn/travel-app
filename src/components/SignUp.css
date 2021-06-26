@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+.in{
+    display: block;
+    padding: 10px;
+    width: 23rem;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+.form-container{
+    height: 90vh;
+    margin-top: 150px;
+}
+.nme{
+    display: inline-block;
+    padding: 10px;
+    width: 11rem;
+    margin: 20px 10px;
+    border-radius: 20px;
+  
+}
+.submit{
+    margin: 0 auto;
+    display: block;
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+    outline: none;
+    background: linear-gradient(rgb(214, 163, 255),rgb(188, 129, 255));
+    color: white;
+    border: white;
+    cursor: pointer;
+}
+input{
+    outline: none;
+    border: rgb(117, 200, 255) 3px solid;
+    font-size: 1.2rem;
+}
+input::placeholder{
+    color:rgb(185, 126, 245);
+}
+.names{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (max-width:425px){
+    .nme{
+        display: block;
+        width: 15rem;
+        margin:20px auto;
+    }
+    .names{
+        display: block;
+    }
+    .in{
+        display: block;
+        padding: 10px;
+        width: 15rem;
+        margin: 20px auto;
+        border-radius: 20px;
+        
+    }
+}
