@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/travigo-app/static/css/main.12d8cba1.chunk.css",
+    "main.js": "/travigo-app/static/js/main.3508d709.chunk.js",
+    "main.js.map": "/travigo-app/static/js/main.3508d709.chunk.js.map",
+    "runtime-main.js": "/travigo-app/static/js/runtime-main.d274b427.js",
+    "runtime-main.js.map": "/travigo-app/static/js/runtime-main.d274b427.js.map",
+    "static/js/2.ffdf1063.chunk.js": "/travigo-app/static/js/2.ffdf1063.chunk.js",
+    "static/js/2.ffdf1063.chunk.js.map": "/travigo-app/static/js/2.ffdf1063.chunk.js.map",
+    "static/js/3.7d95eaf8.chunk.js": "/travigo-app/static/js/3.7d95eaf8.chunk.js",
+    "static/js/3.7d95eaf8.chunk.js.map": "/travigo-app/static/js/3.7d95eaf8.chunk.js.map",
+    "index.html": "/travigo-app/index.html",
+    "static/css/main.12d8cba1.chunk.css.map": "/travigo-app/static/css/main.12d8cba1.chunk.css.map",
+    "static/js/2.ffdf1063.chunk.js.LICENSE.txt": "/travigo-app/static/js/2.ffdf1063.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/travigo-app/static/media/NanumMyeongjo-Regular.9f891674.ttf",
+    "static/media/App.css": "/travigo-app/static/media/Jungle Land.0c2a6805.ttf",
+    "static/media/back.c0c653d6.mp4": "/travigo-app/static/media/back.c0c653d6.mp4",
+    "static/media/beach.63975cd9.svg": "/travigo-app/static/media/beach.63975cd9.svg",
+    "static/media/connect.19d7e998.svg": "/travigo-app/static/media/connect.19d7e998.svg",
+    "static/media/hang.cf0ba0d9.svg": "/travigo-app/static/media/hang.cf0ba0d9.svg",
+    "static/media/konnect.aee241e3.svg": "/travigo-app/static/media/konnect.aee241e3.svg",
+    "static/media/phone.b62b738a.svg": "/travigo-app/static/media/phone.b62b738a.svg",
+    "static/media/travigo.61dc76c9.png": "/travigo-app/static/media/travigo.61dc76c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d274b427.js",
+    "static/js/2.ffdf1063.chunk.js",
+    "static/css/main.12d8cba1.chunk.css",
+    "static/js/main.3508d709.chunk.js"
+  ]
+}
